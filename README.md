@@ -4,7 +4,7 @@
 Learn to construct reliable, readable, efficient research software.
 
 ## Plan
-1. Introduction to Python
+1. [Introduction to Python](https://github.com/aymericvie/RSE_Turing/blob/main/unit1.ipynb)
 2. Intermediate Python
 3. Research Data in Python
 4. Version Control
