@@ -1,5 +1,9 @@
 # Research Software Engineering with Python
 
+## Presentation
+
+This project contains my personal notes on the Alan Turing Institute course: [Research Software Engineering with Python](https://alan-turing-institute.github.io/rse-course/html/index.html). The GitHub project of the course can be found [here](https://github.com/alan-turing-institute/rse-course).
+
 ## Introduction
 Learn to construct reliable, readable, efficient research software.
 
