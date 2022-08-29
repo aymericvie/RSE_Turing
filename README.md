@@ -12,9 +12,9 @@ Learn to construct reliable, readable, efficient research software.
 2. [Intermediate Python](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit2.ipynb)
 3. [Research Data in Python](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit3.ipynb)
 4. [Version Control](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit4.ipynb)
-5. Testing
-6. Software Projects
-7. Construction and Design
-8. Advanced Programming Techniques
-9. Programming for Speed
-10. Scientific file formats
+5. [Testing](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit5.ipynb)
+6. [Software Projects](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit6.ipynb)
+7. [Construction and Design](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit7.ipynb)
+8. [Advanced Programming Techniques](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit8.ipynb)
+9. [Programming for Speed](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit9.ipynb)
+10. [Scientific file formats](https://github.com/aymericvie/RSE_Turing/blob/main/units/unit10.ipynb)
